@@ -1,0 +1,25 @@
+catkin_generated/*
+c_generated_code/
+CMakeFiles/*
+
+# vim
+.*.sw[a-z]
+
+# python
+__pycache__
+*.pyc
+
+.devcontainer/devcontainer.json
+*.mexmaci64
+slprj/
+*.slxc
+*.DS_Store
+*.kdev4
+
+# build
+*.cmake
+*.o
+*.so
+
+# C tags
+tags
